@@ -1,3 +1,7 @@
 
 *.xml
 .idea/video_analytics.iml
+/install_opencv_with_python2.7.py
+/live_image_subtraction_from_camera.py
+/traffic_light.jpg
+/download.jpg
