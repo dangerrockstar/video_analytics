@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-face_cascade = cv2.CascadeClassifier('D:\opencv code\case_cade xml\haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('case_cade xml/haarcascade_frontalface_default.xml')
 
 def cam(cap):
     while(True):
